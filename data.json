@@ -1,0 +1,211 @@
+{
+    "data": {
+        "exhibitions": {
+            "current": "10",
+            "exhibition": [
+                {
+                    "id": "10",
+                    "startdate": "2012/06/01",
+                    "enddate": "2012/07/31",
+                    "postersize": "170,170",
+                    "exhibition_title": "Joan Miró Exhibition",
+                    "exhibition_subtitle": "Exhibition subtitle",
+                    "items": [
+                            {
+                                "id": "1",
+                                "wall": "WEST1",
+                                "x": "200",
+                                "y": "0"
+                            },
+                            {
+                                "id": "2",
+                                "wall": "WEST1",
+                                "x": "0",
+                                "y": "0"
+                            },
+                            {
+                                "id": "4",
+                                "wall": "EAST1",
+                                "x": "-100",
+                                "y": "0"
+                            },
+                            {
+                                "id": "5",
+                                "wall": "EAST1",
+                                "x": "100",
+                                "y": "0"
+                            },
+                            {
+                                "id": "6",
+                                "wall": "NORTH",
+                                "x": "190",
+                                "y": "0"
+                            }
+                        ]
+                },
+                {
+                    "id": "9",
+                    "startdate": "2012/05/01",
+                    "enddate": "2012/05/31",
+                    "postersize": "170,240",
+                    "exhibition_title": "May 2012",
+                    "exhibition_subtitle": "Exhibition subtitle",
+                    "items": []
+                },
+                {
+                    "id": "8",
+                    "startdate": "2012/04/01",
+                    "enddate": "2012/04/31",
+                    "postersize": "170,300",
+                    "exhibition_title": "April 2012",
+                    "exhibition_subtitle": "Exhibition subtitle",
+                    "items": []
+                },
+                {
+                    "id": "7",
+                    "startdate": "2012/02/01",
+                    "enddate": "2012/03/31",
+                    "postersize": "170,170",
+                    "exhibition_title": "Feb/Mar 2012",
+                    "exhibition_subtitle": "Exhibition subtitle",
+                    "items": []
+                },
+                {
+                    "id": "6",
+                    "startdate": "2012/01/01",
+                    "enddate": "2012/01/31",
+                    "postersize": "170,170",
+                    "exhibition_title": "January 2012",
+                    "exhibition_subtitle": "Exhibition subtitle",
+                    "items": []
+                },
+                {
+                    "id": "5",
+                    "startdate": "2011/12/01",
+                    "enddate": "2011/12/31",
+                    "postersize": "170,240",
+                    "exhibition_title": "December 2011",
+                    "exhibition_subtitle": "Exhibition subtitle",
+                    "items": []
+                },
+                {
+                    "id": "4",
+                    "startdate": "2011/10/01",
+                    "enddate": "2011/11/31",
+                    "postersize": "170,240",
+                    "exhibition_title": "Oct/Nov 2011",
+                    "exhibition_subtitle": "Exhibition subtitle",
+                    "items": []
+                },
+                {
+                    "id": "3",
+                    "startdate": "2011/09/01",
+                    "enddate": "2011/09/31",
+                    "postersize": "170,170",
+                    "exhibition_title": "September 2011",
+                    "exhibition_subtitle": "Exhibition subtitle",
+                    "items": []
+                },
+                {
+                    "id": "2",
+                    "startdate": "2011/08/01",
+                    "enddate": "2011/08/31",
+                    "postersize": "170,300",
+                    "exhibition_title": "August 2011",
+                    "exhibition_subtitle": "Exhibition subtitle",
+                    "items": []
+                },
+                {
+                    "id": "1",
+                    "startdate": "2011/07/01",
+                    "enddate": "2011/07/31",
+                    "postersize": "170,240",
+                    "exhibition_title": "July 2011",
+                    "exhibition_subtitle": "Exhibition subtitle",
+                    "items": []
+                }
+            ]
+        },
+        "artworks": {
+            "artwork": [
+                {
+                    "id": "1",
+                    "artistid": "1",
+                    "artwork_title": "Carnival of Harlequin",
+                    "artwork_year": "1924",
+                    "artwork_description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nisl mauris, fermentum viverra ullamcorper adipiscing, molestie sit amet dui. Ut cursus, risus et laoreet sagittis, magna dolor mattis purus, vitae condimentum lacus lorem id mauris. Phasellus at tellus id est tempus commodo eu sit amet mauris. Fusce dignissim diam quis quam consequat euismod. Quisque sit amet venenatis mi. Cras ac tellus dolor. Donec tempus, urna id venenatis aliquam, nibh magna viverra tortor, nec pretium nisl purus eu lacus. Sed mauris lectus, gravida ac congue in, blandit et dolor. Duis gravida posuere ipsum, eu vehicula mauris scelerisque quis. Proin vitae augue et orci aliquet pharetra.</p>",
+                    "artwork_width": "93",
+                    "artwork_height": "66",
+                    "artwork_image": "assets/images/joanmiro_carnivalofharlequin.jpg"
+                },
+                {
+                    "id": "2",
+                    "artistid": "1",
+                    "artwork_title": "Painting of Toledo",
+                    "artwork_year": "1917",
+                    "artwork_description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nisl mauris, fermentum viverra ullamcorper adipiscing, molestie sit amet dui. Ut cursus, risus et laoreet sagittis, magna dolor mattis purus, vitae condimentum lacus lorem id mauris. Phasellus at tellus id est tempus commodo eu sit amet mauris. Fusce dignissim diam quis quam consequat euismod. Quisque sit amet venenatis mi. Cras ac tellus dolor. Donec tempus, urna id venenatis aliquam, nibh magna viverra tortor, nec pretium nisl purus eu lacus. Sed mauris lectus, gravida ac congue in, blandit et dolor. Duis gravida posuere ipsum, eu vehicula mauris scelerisque quis. Proin vitae augue et orci aliquet pharetra.</p>",
+                    "artwork_width": "100",
+                    "artwork_height": "100",
+                    "artwork_image": "assets/images/joanmiro_paintingoftoledo.jpg"
+                },
+                {
+                    "id": "3",
+                    "artistid": "1",
+                    "artwork_title": "Daybreak",
+                    "artwork_year": "1968",
+                    "artwork_description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nisl mauris, fermentum viverra ullamcorper adipiscing, molestie sit amet dui. Ut cursus, risus et laoreet sagittis, magna dolor mattis purus, vitae condimentum lacus lorem id mauris. Phasellus at tellus id est tempus commodo eu sit amet mauris. Fusce dignissim diam quis quam consequat euismod. Quisque sit amet venenatis mi. Cras ac tellus dolor. Donec tempus, urna id venenatis aliquam, nibh magna viverra tortor, nec pretium nisl purus eu lacus. Sed mauris lectus, gravida ac congue in, blandit et dolor. Duis gravida posuere ipsum, eu vehicula mauris scelerisque quis. Proin vitae augue et orci aliquet pharetra.</p>",
+                    "artwork_width": "60",
+                    "artwork_height": "80",
+                    "artwork_image": "assets/images/joanmiro_daybreak.jpg"
+                },
+                {
+                    "id": "4",
+                    "artistid": "1",
+                    "artwork_title": "Painting of Rooster",
+                    "artwork_year": "1940",
+                    "artwork_description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nisl mauris, fermentum viverra ullamcorper adipiscing, molestie sit amet dui. Ut cursus, risus et laoreet sagittis, magna dolor mattis purus, vitae condimentum lacus lorem id mauris. Phasellus at tellus id est tempus commodo eu sit amet mauris. Fusce dignissim diam quis quam consequat euismod. Quisque sit amet venenatis mi. Cras ac tellus dolor. Donec tempus, urna id venenatis aliquam, nibh magna viverra tortor, nec pretium nisl purus eu lacus. Sed mauris lectus, gravida ac congue in, blandit et dolor. Duis gravida posuere ipsum, eu vehicula mauris scelerisque quis. Proin vitae augue et orci aliquet pharetra.</p>",
+                    "artwork_width": "49",
+                    "artwork_height": "64",
+                    "artwork_image": "assets/images/joanmiro_paintingofrooster.jpg"
+                },
+                {
+                    "id": "5",
+                    "artistid": "1",
+                    "artwork_title": "The Garden",
+                    "artwork_year": "1925",
+                    "artwork_description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nisl mauris, fermentum viverra ullamcorper adipiscing, molestie sit amet dui. Ut cursus, risus et laoreet sagittis, magna dolor mattis purus, vitae condimentum lacus lorem id mauris. Phasellus at tellus id est tempus commodo eu sit amet mauris. Fusce dignissim diam quis quam consequat euismod. Quisque sit amet venenatis mi. Cras ac tellus dolor. Donec tempus, urna id venenatis aliquam, nibh magna viverra tortor, nec pretium nisl purus eu lacus. Sed mauris lectus, gravida ac congue in, blandit et dolor. Duis gravida posuere ipsum, eu vehicula mauris scelerisque quis. Proin vitae augue et orci aliquet pharetra.</p>",
+                    "artwork_width": "68",
+                    "artwork_height": "88",
+                    "artwork_image": "assets/images/joanmiro_thegarden.jpg"
+                },
+                {
+                    "id": "6",
+                    "artistid": "1",
+                    "artwork_title": "Figures on Red Background",
+                    "artwork_year": "1939",
+                    "artwork_description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nisl mauris, fermentum viverra ullamcorper adipiscing, molestie sit amet dui. Ut cursus, risus et laoreet sagittis, magna dolor mattis purus, vitae condimentum lacus lorem id mauris. Phasellus at tellus id est tempus commodo eu sit amet mauris. Fusce dignissim diam quis quam consequat euismod. Quisque sit amet venenatis mi. Cras ac tellus dolor. Donec tempus, urna id venenatis aliquam, nibh magna viverra tortor, nec pretium nisl purus eu lacus. Sed mauris lectus, gravida ac congue in, blandit et dolor. Duis gravida posuere ipsum, eu vehicula mauris scelerisque quis. Proin vitae augue et orci aliquet pharetra.</p>",
+                    "artwork_width": "64",
+                    "artwork_height": "48",
+                    "artwork_image": "assets/images/joanmiro_figuresonredbackground.jpg"
+                }
+            ]
+        },
+        "artists": {
+            "artist": [
+                {
+                    "id": "1",
+                    "artist_name": "Joan Miró",
+                    "artist_image": "assets/images/artists_joan-miro.png",
+                    "artist_description": "<p>Joan Miró i Ferrà (April 20, 1893 – December 25, 1983) was a Spanish Catalan painter, sculptor, and ceramicist born in Barcelona.</p><p>Earning international acclaim, his work has been interpreted as Surrealism, a sandbox for the subconscious mind, a re-creation of the childlike, and a manifestation of Catalan pride. In numerous interviews dating from the 1930s onwards, Miró expressed contempt for conventional painting methods as a way of supporting bourgeois society, and famously declared an &quot;assassination of painting&quot; in favour of upsetting the visual elements of established painting.</p>",
+                    "artist_link": "http://en.wikipedia.org/wiki/Joan_Mir%C3%B3"
+                },
+                {
+                    "id": "2",
+                    "artist_name": "Test",
+                    "artist_description": "<p>Test</p>",
+                    "artist_link": "http://"
+                }
+            ]
+        }
+    }
+}
